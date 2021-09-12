@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 mangoes
 pears
 merging
 cherry
 picking
+=======
+mango
+picking
+1234
+45678
+9101112
+>>>>>>> feature2
 
